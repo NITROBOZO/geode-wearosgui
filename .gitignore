@@ -63,11 +63,6 @@ build-*/
 .idea/
 /cmake-build-*/
 # Build directories
-build/
-build-android32/
-build-android64/
-build-win/
-
 # CMake files
 CMakeCache.txt
 CMakeFiles/
